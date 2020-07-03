@@ -1,2 +1,5 @@
 # ais
-Annealed Importance Sampling
+
+Annealed Importance Sampling in NumPy.
+
+
