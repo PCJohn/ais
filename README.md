@@ -1,5 +1,6 @@
-# ais
+# Annealed Importance Sampling
 
-Annealed Importance Sampling in NumPy.
+An exercise to implement and visualize annealed importance sampling in NumPy.
 
+Visualization: https://youtu.be/xS3sHLodVpM 
 
